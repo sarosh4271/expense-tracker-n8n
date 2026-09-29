@@ -8,9 +8,7 @@ Built entirely with free tools as a portfolio project to learn n8n and AI-agent 
 
 ## Demo
 
-https://github.com/user-attachments/assets/REPLACE_WITH_YOUR_UPLOADED_VIDEO_LINK
-
-*(Upload `demo.mp4` to a GitHub issue or release to get a shareable link, then paste it here — GitHub auto-embeds it.)*
+https://github.com/user-attachments/assets/726ceff0-664d-4a21-84d6-f0541776b265
 
 ## How it works
 
